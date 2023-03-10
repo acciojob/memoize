@@ -1,4 +1,4 @@
 {
-    "testRepo": "favorite-holiday-solution",
+    "testRepo": "memoize-solution",
     "pathToFile": "cypress/integration/tests/test.spec.js"
 }
